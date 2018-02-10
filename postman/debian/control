@@ -1,0 +1,12 @@
+Source: postman
+Section: devel
+Priority: optional
+Maintainer: Vitaliy Kraynov <djvantuz1@gmail.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.7
+
+
+Package: postman
+Architecture: i386 amd64
+Depends: ${misc:Depends}
+Description: Postman API Tester

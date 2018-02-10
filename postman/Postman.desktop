@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Postman
+GenericName=Postman API Tester
+Icon=postman
+Exec=Postman
+Path=/opt/postman
+Categories=Development;
