@@ -1,6 +1,6 @@
-postman (5.5-2-0ubuntu2) artful; urgency=low
+postman (6.0.7-0ubuntu1) artful; urgency=low
 
-  * Upstream version: 5.5-2
+  * Upstream version: 6.0.7
 
  -- Vitaliy Kraynov <djvantuz1@gmail.com>  Sat, 10 Feb 2018 19:05:24 +0300
 
