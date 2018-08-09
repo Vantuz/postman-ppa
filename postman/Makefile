@@ -12,4 +12,4 @@ install:
 	cp Postman.desktop $(DESTDIR)/usr/share/applications
 	
 	@test -d $(DESTDIR)/usr/share/icons/hicolor/128x128/apps || mkdir -p $(DESTDIR)/usr/share/icons/hicolor/128x128/apps
-	cp Postman/resources/app/assets/icon.png $(DESTDIR)/usr/share/icons/hicolor/128x128/apps/postman.png
+	cp Postman/app/resources/app/assets/icon.png $(DESTDIR)/usr/share/icons/hicolor/128x128/apps/postman.png

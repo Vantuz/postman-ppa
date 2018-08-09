@@ -1,3 +1,9 @@
+postman (6.2.4-0ubuntu1) bionic; urgency=medium
+
+  * Upstream version: 6.2.4
+
+ -- Vitaliy Kraynov <djvantuz1@gmail.com>  Thu, 09 Aug 2018 19:54:31 +0300
+
 postman (6.0.7-0ubuntu1) artful; urgency=low
 
   * Upstream version: 6.0.7
